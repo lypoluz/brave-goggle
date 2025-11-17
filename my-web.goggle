@@ -1,6 +1,6 @@
 ! name: my_web
 ! description: AI-slob me once, shame on you. AI-slob me twice, shame on me.
 ! public: false
-! Author: Dominik Potulski
+! author: Dominik Potulski
 
 https://wikipedia.org$boost=5
